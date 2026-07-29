@@ -20,8 +20,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Sorting
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+## Simulation
+|  |
+| ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 <!---LeetCode Topics End-->
