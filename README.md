@@ -32,5 +32,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+## String
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
