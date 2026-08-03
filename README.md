@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Sorting
@@ -41,5 +42,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/0002-add-two-numbers) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
