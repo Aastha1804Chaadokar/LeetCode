@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Recursion
 |  |
@@ -48,4 +49,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
