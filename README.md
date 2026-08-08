@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aastha1804Chaadokar/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Sorting
